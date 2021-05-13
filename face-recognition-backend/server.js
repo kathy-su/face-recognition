@@ -4,12 +4,13 @@ const bcrypt = require('bcrypt-nodejs');
 const cors = require('cors');
 const knex = require('knex');
 
+//enter your database info
 const db = knex ({
     client: 'pg',
     connection: {
       host : '127.0.0.1',
       user : 'postgres',
-      password : 'successful',
+      password : '',
       database : 'smartbrain'
     }
   });
