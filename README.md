@@ -3,7 +3,7 @@
 - Built a fully responsive web app that detects each human face in user uploaded images
 - Utilized React.js for frontend, an image recognition API, and built an own server using Node.js and Express.js
 - Implemented secure registration & login functionalities, storing encrypted user data in a PostgreSQL database 
-
+ 
  
 ![image](https://user-images.githubusercontent.com/66896340/118203013-00c02180-b410-11eb-8b70-f9d52703a934.png)
 
