@@ -1,4 +1,4 @@
-# Face Recognition
+# Face Recognition Web App
 
 - Built a fully responsive web app that detects each human face in user uploaded images
 - Utilized React.js for frontend, an image recognition API, and built an own server using Node.js and Express.js
